@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ksclone/static/css/main.e1b42a48.css",
+    "main.js": "/ksclone/static/js/main.30bb4fc3.js",
+    "static/js/453.791ce74d.chunk.js": "/ksclone/static/js/453.791ce74d.chunk.js",
+    "static/media/profileExample.png": "/ksclone/static/media/profileExample.cf0bd8253ff47dfd191f.png",
+    "static/media/background.png": "/ksclone/static/media/background.9c55ed8941ea8c2fc391.png",
+    "static/media/pic4.png": "/ksclone/static/media/pic4.90426be5af2f54d7ab61.png",
+    "static/media/pic3.png": "/ksclone/static/media/pic3.c139ccbcd466124878b9.png",
+    "static/media/pic2.png": "/ksclone/static/media/pic2.3e02935678a469d5150e.png",
+    "static/media/pic1.png": "/ksclone/static/media/pic1.5e1a9757fb4ab3e2e4ae.png",
+    "static/media/logo.svg": "/ksclone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ksclone/index.html",
+    "main.e1b42a48.css.map": "/ksclone/static/css/main.e1b42a48.css.map",
+    "main.30bb4fc3.js.map": "/ksclone/static/js/main.30bb4fc3.js.map",
+    "453.791ce74d.chunk.js.map": "/ksclone/static/js/453.791ce74d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b42a48.css",
+    "static/js/main.30bb4fc3.js"
+  ]
+}
